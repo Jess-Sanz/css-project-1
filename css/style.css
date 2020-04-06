@@ -1,0 +1,83 @@
+html {
+	margin: 60px;
+}
+body {
+  font-family: "Proxima Nova", sans-serif;
+  font-size: 16px;
+  font-weight: 450;
+  color: #222;
+  line-height: 1.0;
+}
+
+h4 {
+  font-size: 18px;
+  color: #4B0001;
+  font-weight: 600;
+  font-family: 'Raleway', sans-serif;
+}
+
+#about h3 {
+  color: #A20909;
+  font-size: 24px;
+}
+
+#education h3 {
+  color: #A20909;
+  font-size: 24px;
+}
+
+#work h3 {
+  color: #A20909;
+  font-size: 24px;
+}
+
+#languages h3 {
+  color: #A20909;
+  font-size: 24px;
+}
+
+#skills h3 {
+  color: #A20909;
+  font-size: 24px;
+}
+
+#contact h3 {
+  color: #A20909;
+  font-size: 24px;
+}
+
+h1, h2, h3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800
+  
+}
+
+tr:nth-child(odd) {background-color: #f7e5dc;}
+
+th {
+	background-color: #f7e5dc;
+}
+
+table, tb, th {
+	text-align: center;
+	padding: 10px;
+	
+}
+
+nav {
+  float: center;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+footer {
+  float: center;
+  background-color: #F2F2F2;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
